@@ -18,7 +18,7 @@ const initialData={
     console.log(formData);
     setFormData(initialData);
   }
-  return (
+  return ( 
     <div>
       <div className=" flex flex-col justify-center items-center mx-auto">
         <div className="p-4 mx-auto">
